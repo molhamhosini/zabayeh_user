@@ -10,13 +10,13 @@ PODS:
   - connectivity (0.0.1):
     - Flutter
     - Reachability
-  - FBAEMKit (15.1.0):
+  - FBAEMKit (13.0.0):
     - FBSDKCoreKit_Basics (= 15.1.0)
   - FBSDKCoreKit (15.1.0):
-    - FBAEMKit (= 15.1.0)
+    - FBAEMKit (= 13.0.0)
     - FBSDKCoreKit_Basics (= 15.1.0)
   - FBSDKCoreKit_Basics (15.1.0)
-  - FBSDKLoginKit (15.1.0):
+  - FBSDKLoginKit (13.0.0):
     - FBSDKCoreKit (= 15.1.0)
   - Firebase/CoreOnly (10.3.0):
     - FirebaseCore (= 10.3.0)
@@ -51,8 +51,8 @@ PODS:
     - GoogleUtilities/UserDefaults (~> 7.8)
     - nanopb (< 2.30910.0, >= 2.30908.0)
   - Flutter (1.0.0)
-  - flutter_facebook_auth (5.0.4):
-    - FBSDKLoginKit (~> 15.1.0)
+  - flutter_facebook_auth (3.5.3):
+    - FBSDKLoginKit (~> 13.0.0)
     - Flutter
   - flutter_inappwebview (0.0.1):
     - Flutter
